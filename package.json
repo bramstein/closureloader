@@ -1,0 +1,15 @@
+{
+  "name": "closureloader",
+  "author": "Bram Stein <b.l.stein@gmail.com> (http://www.bramstein.com/)",
+  "description": "Load code using the Closure library dependency syntax in Node.js",
+  "keywords": ["closure", "compiler", "node", "goog", "require", "provide", "closure compiler", "calcdeps"],
+  "repository": {
+    "type": "git",
+    "url": "git://git.github.com/bramstein/closureloader.git"
+  },
+  "version": "0.0.1",
+  "main": "./lib/closureloader",
+  "dependencies": {
+    "calcdeps": "0.1.6"
+  }
+}
