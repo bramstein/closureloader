@@ -1,15 +1,12 @@
-Closure Loader
-==============
+## Closure Loader
 
 Load code using the Closure library dependency syntax in Node.js
 
-Installation
-============
+### Installation
 
     npm install closureloader
 
-Usage
-=====
+### Usage
 
     var loader = require('closureloader');
 
